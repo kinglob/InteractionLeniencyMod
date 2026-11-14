@@ -1,0 +1,13 @@
+{
+  "itemGroup.configurableinteractionleniency": "Example Mod Tab",
+  "block.configurableinteractionleniency.example_block": "Example Block",
+  "item.configurableinteractionleniency.example_item": "Example Item",
+
+  "configurableinteractionleniency.configuration.title": "ConfigurableInteractionLeniency Configs",
+  "configurableinteractionleniency.configuration.section.configurableinteractionleniency.common.toml": "ConfigurableInteractionLeniency Configs",
+  "configurableinteractionleniency.configuration.section.configurableinteractionleniency.common.toml.title": "ConfigurableInteractionLeniency Configs",
+  "configurableinteractionleniency.configuration.items": "Item List",
+  "configurableinteractionleniency.configuration.logDirtBlock": "Log Dirt Block",
+  "configurableinteractionleniency.configuration.magicNumberIntroduction": "Magic Number Text",
+  "configurableinteractionleniency.configuration.magicNumber": "Magic Number"
+}
